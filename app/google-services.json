@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851668215519",
+    "project_id": "uasmobile-8596f",
+    "storage_bucket": "uasmobile-8596f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851668215519:android:92f3cc70a5e3491bef6b6a",
+        "android_client_info": {
+          "package_name": "com.example.tes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Q5vjRM4UOWkaG7CLfzDHiEi1VFv9nBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
